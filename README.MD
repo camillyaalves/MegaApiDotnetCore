@@ -1,4 +1,7 @@
-![Mega Man Robots API](./_docs/assets/MEGA_MAN_ROBOTS_API.png)
+<img src="./_docs/assets/MEGA_MAN_ROBOTS_API.png"
+  alt="Mega Man Robots API"
+  width="150"
+/>
 
 # **Mega Man Robots API**
 (MEGA-MAN-ROBOTS)
