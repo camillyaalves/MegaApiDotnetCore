@@ -1,33 +1,13 @@
-<h1 align="center">
-  <br />
-  <img
-    src="./_docs/assets/icon.png"
-    alt="Mega Man Robots API"
-    width="150"
-  />
-  <br />
-  <b>Mega Man Robots API</b>
-  <br />
-  <sub
-    ><sup><b>(MEGA-MAN-ROBOTS)</b></sup></sub
-  >
-  <br />
-  <a
-    href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml"
-  >
-    <img
-      src="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg"
-      alt=""
-    />
-  </a>
-  <a href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/releases/latest">
-    <img
-      src="https://img.shields.io/github/v/release/felipeAguiarCode/MegaApiDotnetCore"
-      alt="Latest Release"
-    />
-  </a>
-</h1>
+![Mega Man Robots API](./_docs/assets/MEGA_MAN_ROBOTS_API.png)
+
+# **Mega Man Robots API**
+(MEGA-MAN-ROBOTS)
+
+## Contexto
+Este projeto é uma API desenvolvida em .NET Core 3.1, cujo objetivo principal é fornecer informações sobre os bosses da franquia Megaman em formato JSON.
+
+### Exemplo de Resposta JSON
+![Exemplo JSON](./_docs/assets/carbonVSCODE.png)
 
 
-Camilly Alves -
-[Github](https://github.com/felipeAguiarCode)
+[![GitHub](https://img.shields.io/badge/Camilly_Alves-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camillyaalves/)
